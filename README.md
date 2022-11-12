@@ -1,6 +1,4 @@
 # No Show Appointment - Investigate a dataset
-## by Abiola Adeyinka
-
 
 ## Dataset
 
